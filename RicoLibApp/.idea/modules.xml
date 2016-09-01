@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RicoLibApp.iml" filepath="$PROJECT_DIR$/RicoLibApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db_greendao/db_greendao.iml" filepath="$PROJECT_DIR$/db_greendao/db_greendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendaogeneratorlib/greendaogeneratorlib.iml" filepath="$PROJECT_DIR$/greendaogeneratorlib/greendaogeneratorlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpaccess/okhttpaccess.iml" filepath="$PROJECT_DIR$/okhttpaccess/okhttpaccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptr-lib/ptr-lib.iml" filepath="$PROJECT_DIR$/ptr-lib/ptr-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rlib/rlib.iml" filepath="$PROJECT_DIR$/rlib/rlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpay/rpay.iml" filepath="$PROJECT_DIR$/rpay/rpay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volleylib/volleylib.iml" filepath="$PROJECT_DIR$/volleylib/volleylib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxinglib/zxinglib.iml" filepath="$PROJECT_DIR$/zxinglib/zxinglib.iml" />
+    </modules>
+  </component>
+</project>

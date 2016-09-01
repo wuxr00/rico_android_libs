@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion Integer.parseInt(project.ANDROID_BUILD_SDK_VERSION)
+    buildToolsVersion project.ANDROID_BUILD_TOOLS_VERSION
+    defaultConfig {
+        applicationId "r.ricolibapp"
+        minSdkVersion Integer.parseInt(project.ANDROID_BUILD_MIN_SDK_VERSION)
+        targetSdkVersion Integer.parseInt(project.ANDROID_BUILD_TARGET_SDK_VERSION)
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            // 不显示Log, 在java代码中的调用方式为：BuildConfig.LOG_DEBUG
+//            buildConfigField "boolean", "LEO_DEBUG", "false"
+
+            minifyEnabled false
+            zipAlignEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+//            signingConfig signingConfigs.release
+        }
+
+        debug {
+            // 显示Log
+//            buildConfigField "boolean", "LEO_DEBUG", "true"
+
+            versionNameSuffix "-debug"
+            minifyEnabled false
+            zipAlignEnabled false
+            shrinkResources false
+//            signingConfig signingConfigs.debug
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':db_greendao')
+    compile project(':okhttpaccess')
+    compile project(':ptr-lib')
+    compile project(':rlib')
+    compile project(':rpay')
+    compile project(':zxinglib')
+}

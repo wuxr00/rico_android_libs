@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/testTV"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dip"
+        android:textSize="16.0dip"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/test1TV"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dip"
+        android:textSize="16.0dip"
+        android:gravity="center"/>
+</LinearLayout>

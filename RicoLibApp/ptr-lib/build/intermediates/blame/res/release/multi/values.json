@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/build/intermediates/res/merged/release/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 57,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/values/cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 62,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 62,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/values/cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 67,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 61,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/values/cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 66,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 56,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/values/cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 78,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/values/cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 78,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 62,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/values/cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 62,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 59,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/values/cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 59,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 74,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/values/cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 74,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 61,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/values/cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 66,
+                        "endOffset": 521
+                    }
+                }
+            }
+        ]
+    }
+]

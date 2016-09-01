@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/build/intermediates/res/merged/debug/layout/view_default_loadmore.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/layout/view_default_loadmore.xml"
+    },
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/build/intermediates/res/merged/debug/layout/cube_ptr_classic_default_header.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/layout/cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/build/intermediates/res/merged/debug/layout/ptr_default_header.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/layout/ptr_default_header.xml"
+    },
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/build/intermediates/res/merged/debug/layout/cube_ptr_simple_loading.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/ptr-lib/res/layout/cube_ptr_simple_loading.xml"
+    }
+]

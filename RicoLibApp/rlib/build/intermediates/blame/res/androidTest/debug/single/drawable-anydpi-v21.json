@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/generated/res/pngs/androidTest/debug/drawable-anydpi-v21/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/abc_vector_test.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/generated/res/pngs/androidTest/debug/drawable-anydpi-v21/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/generated/res/pngs/androidTest/debug/drawable-anydpi-v21/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/abc_ic_search_api_material.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/generated/res/pngs/androidTest/debug/drawable-anydpi-v21/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/abc_ic_clear_material.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/generated/res/pngs/androidTest/debug/drawable-anydpi-v21/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/abc_ic_go_search_api_material.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/generated/res/pngs/androidTest/debug/drawable-anydpi-v21/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/generated/res/pngs/androidTest/debug/drawable-anydpi-v21/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/abc_ic_ab_back_material.xml",
+        "source": "/Users/Rico/androidWorkspace/RicoLibApp/rlib/build/generated/res/pngs/androidTest/debug/drawable-anydpi-v21/abc_ic_ab_back_material.xml"
+    }
+]
